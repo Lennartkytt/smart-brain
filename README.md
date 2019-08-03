@@ -1,2 +1,2 @@
 
-# smart-brain made with react
+# face recognition app made with react
